@@ -1,0 +1,4 @@
+
+{ "head": { "link": [], "vars": ["animal", "Type", "Description"] },
+  "results": { "distinct": false, "ordered": true, "bindings": [
+    { "animal": { "type": "uri", "value": "http://dbpedia.org/resource/Fox" }	, "Type": { "type": "uri", "value": "http://dbpedia.org/resource/Mammalia" }	, "Description": { "type": "literal", "xml:lang": "en", "value": "Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the family Canidae. Foxes are slightly smaller than a medium-size domestic dog, with a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush)." }} ] } }
