@@ -4,4 +4,4 @@ This project deals with the development of a community Website that allows to sh
 --------------------------------------------------------------------------------------------------------------------------------------
 
 This project is divided in two parts : the website and the Android application.
-An APK can be found in the folder AndroidApp, while here is a link to the available website : dev-21400116.users.info.unicaen.fr/Wildlife_watch/ .
+An APK can be found in the folder AndroidApp, while here is a link to the available website : https://dev-21400116.users.info.unicaen.fr/Wildlife_watch/ .
